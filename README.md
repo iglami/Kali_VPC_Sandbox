@@ -1,4 +1,4 @@
-# VPC_Security_Lab
+# Kali_VPC_Sandbox
 
 ## Descripción del Proyecto
 
